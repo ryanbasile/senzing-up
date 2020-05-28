@@ -53,7 +53,7 @@ The following software programs need to be installed:
    Example:
 
    ```console
-   ~/senzing-up.sh ~/my-first-senzing-test
+   sudo ~/senzing-up.sh ~/my-first-senzing-test
    ```
 
 ### View web application
